@@ -1,6 +1,6 @@
 This project uses **Git LFS (Large File Storage)** to manage large data files.  
 Follow the steps below carefully to run the project on your local machine.
-
+use python 3.10 or 3.11
 ---
 
 ## Prerequisites
